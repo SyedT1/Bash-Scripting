@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 read -p "Input N = " n
 sum=0
 for (( i=1; i<=n ; i++ ));do
