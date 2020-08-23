@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 read s
 read a b c
 a=$(( a+b+c ))
